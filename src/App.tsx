@@ -8,11 +8,7 @@ function App() {
 
   return (
     <div className="App">
-
-      <UserContextProvider>
-        <User/>
-      </UserContextProvider>
-
+      
     </div>
   );
 }
